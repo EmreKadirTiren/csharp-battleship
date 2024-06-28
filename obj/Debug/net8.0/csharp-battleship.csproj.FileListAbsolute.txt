@@ -1,0 +1,15 @@
+/workspaces/csharp-battleship/bin/Debug/net8.0/csharp-battleship
+/workspaces/csharp-battleship/bin/Debug/net8.0/csharp-battleship.deps.json
+/workspaces/csharp-battleship/bin/Debug/net8.0/csharp-battleship.runtimeconfig.json
+/workspaces/csharp-battleship/bin/Debug/net8.0/csharp-battleship.dll
+/workspaces/csharp-battleship/bin/Debug/net8.0/csharp-battleship.pdb
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.AssemblyInfoInputs.cache
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.AssemblyInfo.cs
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.csproj.CoreCompileInputs.cache
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.sourcelink.json
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.dll
+/workspaces/csharp-battleship/obj/Debug/net8.0/refint/csharp-battleship.dll
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.pdb
+/workspaces/csharp-battleship/obj/Debug/net8.0/csharp-battleship.genruntimeconfig.cache
+/workspaces/csharp-battleship/obj/Debug/net8.0/ref/csharp-battleship.dll
